@@ -6,11 +6,8 @@ Welcome to my repository showcasing the hands-on activities and learning from my
 
 ## 📜 Certificate of Completion
 
-<img src="https://drive.google.com/file/d/1slVLtfDpx24hq6LULR_uAnuXjgJMTXD9/view?usp=sharing" alt="Microsoft Azure Hands-On Certificate" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1slVLtfDpx24hq6LULR_uAnuXjgJMTXD9" alt="Microsoft Azure Hands-On Certificate" width="600"/>
 
-> **Credential ID**: _[Your Certificate ID]_  
-> **Issued by**: Microsoft (via [Platform, e.g., Future Ready Talent/TalentSprint/LinkedIn Learning])  
-> **Date**: [Month, Year]
 
 ---
 
